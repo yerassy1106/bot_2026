@@ -46,7 +46,8 @@ $$Total = (Hours \times C_{unit}) + (Storage \times S_{unit}) + (Bandwidth \time
 
 ```bash
 # 1. Clone the repository
-git clone <your_repository_url>
+git clone <https://github.com/yerassy1106/bot_2026?tab=readme-ov-file
+>
 
 # 2. Install dependencies
 npm install
